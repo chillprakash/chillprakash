@@ -26,3 +26,4 @@ Recent pieces at [spraka.sh](https://spraka.sh/) — programming language intern
 ---
 
 *"Finding joy in making things and making sense of things."*
+
