@@ -12,7 +12,13 @@ I write software, write about software, and occasionally make both better at the
 
 ## Tech
 
-Go · Python · TypeScript · Vue · SQLite / PostgreSQL · Claude Code · MCP · Shell
+Polyglot engineer, 13 years of shipping. I reach for whatever fits the problem.
+
+- **Languages**: Go · Python · TypeScript · JavaScript · Shell
+- **Frontend**: Vue · HTML/CSS
+- **Databases**: PostgreSQL · MySQL · SQLite · Redis · HBase
+- **Infra**: Docker · Kubernetes · CI/CD
+- **AI/LLMs**: agents · LLM fine-tuning · Claude Code · MCP
 
 ## Writing
 
