@@ -21,7 +21,7 @@ Recent pieces at [spraka.sh](https://spraka.sh/) — programming language intern
 ## Reach out
 
 - Website: [spraka.sh](https://spraka.sh/)
-- LinkedIn: via the site
+- LinkedIn: [in/cvcnsprakash](https://www.linkedin.com/in/cvcnsprakash/)
 
 ---
 
